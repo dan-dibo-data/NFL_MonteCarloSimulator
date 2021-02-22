@@ -1,0 +1,451 @@
+Date,Team,TeamPoints,OpponentPoints
+2020-09-10,Houston Texans,20,34
+2020-09-13,Philadelphia Eagles,17,27
+2020-09-13,Seattle Seahawks,38,25
+2020-09-13,Cleveland Browns,6,38
+2020-09-13,Miami Dolphins,11,21
+2020-09-13,Indianapolis Colts,20,27
+2020-09-13,Las Vegas Raiders,34,30
+2020-09-13,Chicago Bears,27,23
+2020-09-13,New York Jets,17,27
+2020-09-13,Green Bay Packers,43,34
+2020-09-13,Los Angeles Chargers,16,13
+2020-09-13,Tampa Bay Buccaneers,23,34
+2020-09-13,Arizona Cardinals,24,20
+2020-09-13,Dallas Cowboys,17,20
+2020-09-14,Pittsburgh Steelers,26,16
+2020-09-14,Tennessee Titans,16,14
+2020-09-17,Cincinnati Bengals,30,35
+2020-09-20,Buffalo Bills,31,28
+2020-09-20,Denver Broncos,21,26
+2020-09-20,Los Angeles Rams,37,19
+2020-09-20,San Francisco 49ers,31,13
+2020-09-20,Jacksonville Jaguars,30,33
+2020-09-20,Atlanta Falcons,39,40
+2020-09-20,Minnesota Vikings,11,28
+2020-09-20,Carolina Panthers,17,31
+2020-09-20,New York Giants,13,17
+2020-09-20,Detroit Lions,21,42
+2020-09-20,Washington Football Team,15,30
+2020-09-20,Kansas City Chiefs,23,20
+2020-09-20,Baltimore Ravens,33,16
+2020-09-20,New England Patriots,30,35
+2020-09-21,New Orleans Saints,24,34
+2020-09-24,Miami Dolphins,31,13
+2020-09-27,San Francisco 49ers,36,9
+2020-09-27,Las Vegas Raiders,20,36
+2020-09-27,Cincinnati Bengals,23,23
+2020-09-27,Tennessee Titans,31,30
+2020-09-27,Los Angeles Rams,32,35
+2020-09-27,Washington Football Team,20,34
+2020-09-27,Chicago Bears,30,26
+2020-09-27,Houston Texans,21,28
+2020-09-27,Carolina Panthers,21,16
+2020-09-27,New York Jets,7,36
+2020-09-27,Tampa Bay Buccaneers,28,10
+2020-09-27,Dallas Cowboys,31,38
+2020-09-27,Detroit Lions,26,23
+2020-09-27,Green Bay Packers,37,30
+2020-09-28,Kansas City Chiefs,34,20
+2020-10-01,Denver Broncos,37,28
+2020-10-04,Los Angeles Chargers,31,38
+2020-10-04,Indianapolis Colts,19,11
+2020-10-04,New Orleans Saints,35,29
+2020-10-04,Arizona Cardinals,21,31
+2020-10-04,Jacksonville Jaguars,25,33
+2020-10-04,Seattle Seahawks,31,23
+2020-10-04,Baltimore Ravens,31,17
+2020-10-04,Cleveland Browns,49,38
+2020-10-04,Minnesota Vikings,31,23
+2020-10-04,New York Giants,9,17
+2020-10-04,Buffalo Bills,30,23
+2020-10-04,Philadelphia Eagles,25,20
+2020-10-05,New England Patriots,10,26
+2020-10-05,Atlanta Falcons,16,30
+2020-10-08,Tampa Bay Buccaneers,19,20
+2020-10-11,Arizona Cardinals,30,10
+2020-10-11,Carolina Panthers,23,16
+2020-10-11,Jacksonville Jaguars,14,30
+2020-10-11,Los Angeles Rams,30,10
+2020-10-11,Cincinnati Bengals,3,27
+2020-10-11,Philadelphia Eagles,29,38
+2020-10-11,Las Vegas Raiders,40,32
+2020-10-11,Miami Dolphins,43,17
+2020-10-11,Indianapolis Colts,23,32
+2020-10-11,New York Giants,34,37
+2020-10-11,Minnesota Vikings,26,27
+2020-10-12,Los Angeles Chargers,27,30
+2020-10-13,Buffalo Bills,16,42
+2020-10-18,Detroit Lions,34,16
+2020-10-18,Denver Broncos,18,12
+2020-10-18,Cincinnati Bengals,27,31
+2020-10-18,Baltimore Ravens,30,28
+2020-10-18,Cleveland Browns,7,38
+2020-10-18,Atlanta Falcons,40,23
+2020-10-18,Houston Texans,36,42
+2020-10-18,Chicago Bears,23,16
+2020-10-18,Washington Football Team,19,20
+2020-10-18,New York Jets,0,24
+2020-10-18,Green Bay Packers,10,38
+2020-10-18,Los Angeles Rams,16,24
+2020-10-19,Kansas City Chiefs,26,17
+2020-10-19,Arizona Cardinals,38,10
+2020-10-22,New York Giants,21,22
+2020-10-25,Pittsburgh Steelers,27,24
+2020-10-25,Green Bay Packers,35,20
+2020-10-25,Dallas Cowboys,3,25
+2020-10-25,Cleveland Browns,37,34
+2020-10-25,Buffalo Bills,18,10
+2020-10-25,Detroit Lions,23,22
+2020-10-25,Carolina Panthers,24,27
+2020-10-25,Tampa Bay Buccaneers,45,20
+2020-10-25,Kansas City Chiefs,43,16
+2020-10-25,San Francisco 49ers,33,6
+2020-10-25,Jacksonville Jaguars,29,39
+2020-10-25,Seattle Seahawks,34,37
+2020-10-26,Chicago Bears,10,24
+2020-10-29,Atlanta Falcons,25,17
+2020-11-01,Minnesota Vikings,28,22
+2020-11-01,Indianapolis Colts,41,21
+2020-11-01,Los Angeles Rams,17,28
+2020-11-01,Pittsburgh Steelers,28,24
+2020-11-01,New York Jets,9,35
+2020-11-01,Tennessee Titans,20,31
+2020-11-01,Las Vegas Raiders,16,6
+2020-11-01,New England Patriots,21,24
+2020-11-01,Los Angeles Chargers,30,31
+2020-11-01,San Francisco 49ers,27,37
+2020-11-01,New Orleans Saints,26,23
+2020-11-01,Dallas Cowboys,9,23
+2020-11-02,Tampa Bay Buccaneers,25,23
+2020-11-05,Green Bay Packers,34,17
+2020-11-08,Baltimore Ravens,24,10
+2020-11-08,Detroit Lions,20,34
+2020-11-08,Houston Texans,27,25
+2020-11-08,Seattle Seahawks,34,44
+2020-11-08,Carolina Panthers,31,33
+2020-11-08,Chicago Bears,17,24
+2020-11-08,Denver Broncos,27,34
+2020-11-08,New York Giants,23,20
+2020-11-08,Las Vegas Raiders,31,26
+2020-11-08,Miami Dolphins,34,31
+2020-11-08,Pittsburgh Steelers,24,19
+2020-11-08,New Orleans Saints,38,3
+2020-11-09,New England Patriots,30,27
+2020-11-12,Indianapolis Colts,34,17
+2020-11-15,Washington Football Team,27,30
+2020-11-15,Jacksonville Jaguars,20,24
+2020-11-15,Houston Texans,7,10
+2020-11-15,Tampa Bay Buccaneers,46,23
+2020-11-15,Philadelphia Eagles,17,27
+2020-11-15,Los Angeles Chargers,21,29
+2020-11-15,Denver Broncos,12,37
+2020-11-15,Buffalo Bills,30,32
+2020-11-15,San Francisco 49ers,13,27
+2020-11-15,Cincinnati Bengals,10,36
+2020-11-15,Seattle Seahawks,16,23
+2020-11-15,Baltimore Ravens,17,23
+2020-11-16,Minnesota Vikings,19,13
+2020-11-19,Arizona Cardinals,21,28
+2020-11-22,New England Patriots,20,27
+2020-11-22,Cincinnati Bengals,9,20
+2020-11-22,Pittsburgh Steelers,27,3
+2020-11-22,Philadelphia Eagles,17,22
+2020-11-22,Atlanta Falcons,9,24
+2020-11-22,Tennessee Titans,30,24
+2020-11-22,Detroit Lions,0,20
+2020-11-22,Miami Dolphins,13,20
+2020-11-22,New York Jets,28,34
+2020-11-22,Green Bay Packers,31,34
+2020-11-22,Dallas Cowboys,31,28
+2020-11-22,Kansas City Chiefs,35,31
+2020-11-23,Los Angeles Rams,27,24
+2020-11-26,Houston Texans,41,25
+2020-11-26,Washington Football Team,41,16
+2020-11-29,Miami Dolphins,20,3
+2020-11-29,Tennessee Titans,45,26
+2020-11-29,Arizona Cardinals,17,20
+2020-11-29,New York Giants,19,17
+2020-11-29,Cleveland Browns,27,25
+2020-11-29,Los Angeles Chargers,17,27
+2020-11-29,Las Vegas Raiders,6,43
+2020-11-29,Carolina Panthers,27,28
+2020-11-29,New Orleans Saints,31,3
+2020-11-29,San Francisco 49ers,23,20
+2020-11-29,Kansas City Chiefs,27,24
+2020-11-29,Chicago Bears,25,41
+2020-11-30,Seattle Seahawks,23,17
+2020-12-02,Baltimore Ravens,14,19
+2020-12-06,Detroit Lions,34,30
+2020-12-06,New Orleans Saints,21,16
+2020-12-06,Jacksonville Jaguars,24,27
+2020-12-06,Indianapolis Colts,26,20
+2020-12-06,Cincinnati Bengals,7,19
+2020-12-06,Cleveland Browns,41,35
+2020-12-06,Las Vegas Raiders,31,28
+2020-12-06,New York Giants,17,12
+2020-12-06,Los Angeles Rams,38,28
+2020-12-06,New England Patriots,45,0
+2020-12-06,Philadelphia Eagles,16,30
+2020-12-06,Denver Broncos,16,22
+2020-12-07,Washington Football Team,23,17
+2020-12-07,Buffalo Bills,34,24
+2020-12-08,Dallas Cowboys,17,34
+2020-12-10,New England Patriots,3,24
+2020-12-13,Arizona Cardinals,26,7
+2020-12-13,Dallas Cowboys,30,7
+2020-12-13,Kansas City Chiefs,33,27
+2020-12-13,Denver Broncos,32,27
+2020-12-13,Houston Texans,7,36
+2020-12-13,Tennessee Titans,31,10
+2020-12-13,Minnesota Vikings,14,26
+2020-12-13,New York Jets,3,40
+2020-12-13,Indianapolis Colts,44,27
+2020-12-13,Atlanta Falcons,17,20
+2020-12-13,New Orleans Saints,21,24
+2020-12-13,Green Bay Packers,31,24
+2020-12-13,Washington Football Team,23,15
+2020-12-13,Pittsburgh Steelers,15,26
+2020-12-14,Baltimore Ravens,47,42
+2020-12-17,Los Angeles Chargers,30,27
+2020-09-10,Kansas City Chiefs,34,20
+2020-09-13,Washington Football Team,27,17
+2020-09-13,Atlanta Falcons,25,38
+2020-09-13,Baltimore Ravens,38,6
+2020-09-13,New England Patriots,21,11
+2020-09-13,Jacksonville Jaguars,27,20
+2020-09-13,Carolina Panthers,30,34
+2020-09-13,Detroit Lions,23,27
+2020-09-13,Buffalo Bills,27,17
+2020-09-13,Minnesota Vikings,34,43
+2020-09-13,Cincinnati Bengals,13,16
+2020-09-13,New Orleans Saints,34,23
+2020-09-13,San Francisco 49ers,20,24
+2020-09-13,Los Angeles Rams,20,17
+2020-09-14,New York Giants,16,26
+2020-09-14,Denver Broncos,14,16
+2020-09-17,Cleveland Browns,35,30
+2020-09-20,Miami Dolphins,28,31
+2020-09-20,Pittsburgh Steelers,26,21
+2020-09-20,Philadelphia Eagles,19,37
+2020-09-20,New York Jets,13,31
+2020-09-20,Tennessee Titans,33,30
+2020-09-20,Dallas Cowboys,40,39
+2020-09-20,Indianapolis Colts,28,11
+2020-09-20,Tampa Bay Buccaneers,31,17
+2020-09-20,Chicago Bears,17,13
+2020-09-20,Green Bay Packers,42,21
+2020-09-20,Arizona Cardinals,30,15
+2020-09-20,Los Angeles Chargers,20,23
+2020-09-20,Houston Texans,16,33
+2020-09-20,Seattle Seahawks,35,30
+2020-09-21,Las Vegas Raiders,34,24
+2020-09-24,Jacksonville Jaguars,13,31
+2020-09-27,New York Giants,9,36
+2020-09-27,New England Patriots,36,20
+2020-09-27,Philadelphia Eagles,23,23
+2020-09-27,Minnesota Vikings,30,31
+2020-09-27,Buffalo Bills,35,32
+2020-09-27,Cleveland Browns,34,20
+2020-09-27,Atlanta Falcons,26,30
+2020-09-27,Pittsburgh Steelers,28,21
+2020-09-27,Los Angeles Chargers,16,21
+2020-09-27,Indianapolis Colts,36,7
+2020-09-27,Denver Broncos,10,28
+2020-09-27,Seattle Seahawks,38,31
+2020-09-27,Arizona Cardinals,23,26
+2020-09-27,New Orleans Saints,30,37
+2020-09-28,Baltimore Ravens,20,34
+2020-10-01,New York Jets,28,37
+2020-10-04,Tampa Bay Buccaneers,38,31
+2020-10-04,Chicago Bears,11,19
+2020-10-04,Detroit Lions,29,35
+2020-10-04,Carolina Panthers,31,21
+2020-10-04,Cincinnati Bengals,33,25
+2020-10-04,Miami Dolphins,23,31
+2020-10-04,Washington Football Team,17,31
+2020-10-04,Dallas Cowboys,38,49
+2020-10-04,Houston Texans,23,31
+2020-10-04,Los Angeles Rams,17,9
+2020-10-04,Las Vegas Raiders,23,30
+2020-10-04,San Francisco 49ers,20,25
+2020-10-05,Kansas City Chiefs,26,10
+2020-10-05,Green Bay Packers,30,16
+2020-10-08,Chicago Bears,20,19
+2020-10-11,New York Jets,10,30
+2020-10-11,Atlanta Falcons,16,23
+2020-10-11,Houston Texans,30,14
+2020-10-11,Washington Football Team,10,30
+2020-10-11,Baltimore Ravens,27,3
+2020-10-11,Pittsburgh Steelers,38,29
+2020-10-11,Kansas City Chiefs,32,40
+2020-10-11,San Francisco 49ers,17,43
+2020-10-11,Cleveland Browns,32,23
+2020-10-11,Dallas Cowboys,37,34
+2020-10-11,Seattle Seahawks,27,26
+2020-10-12,New Orleans Saints,30,27
+2020-10-13,Tennessee Titans,42,16
+2020-10-18,Jacksonville Jaguars,16,34
+2020-10-18,New England Patriots,12,18
+2020-10-18,Indianapolis Colts,31,27
+2020-10-18,Philadelphia Eagles,28,30
+2020-10-18,Pittsburgh Steelers,38,7
+2020-10-18,Minnesota Vikings,23,40
+2020-10-18,Tennessee Titans,42,36
+2020-10-18,Carolina Panthers,16,23
+2020-10-18,New York Giants,20,19
+2020-10-18,Miami Dolphins,24,0
+2020-10-18,Tampa Bay Buccaneers,38,10
+2020-10-18,San Francisco 49ers,24,16
+2020-10-19,Buffalo Bills,17,26
+2020-10-19,Dallas Cowboys,10,38
+2020-10-22,Philadelphia Eagles,22,21
+2020-10-25,Tennessee Titans,24,27
+2020-10-25,Houston Texans,20,35
+2020-10-25,Washington Football Team,25,3
+2020-10-25,Cincinnati Bengals,34,37
+2020-10-25,New York Jets,10,18
+2020-10-25,Atlanta Falcons,22,23
+2020-10-25,New Orleans Saints,27,24
+2020-10-25,Las Vegas Raiders,20,45
+2020-10-25,Denver Broncos,16,43
+2020-10-25,New England Patriots,6,33
+2020-10-25,Los Angeles Chargers,39,29
+2020-10-25,Arizona Cardinals,37,34
+2020-10-26,Los Angeles Rams,24,10
+2020-10-29,Carolina Panthers,17,25
+2020-11-01,Green Bay Packers,22,28
+2020-11-01,Detroit Lions,21,41
+2020-11-01,Miami Dolphins,28,17
+2020-11-01,Baltimore Ravens,24,28
+2020-11-01,Kansas City Chiefs,35,9
+2020-11-01,Cincinnati Bengals,31,20
+2020-11-01,Cleveland Browns,6,16
+2020-11-01,Buffalo Bills,24,21
+2020-11-01,Denver Broncos,31,30
+2020-11-01,Seattle Seahawks,37,27
+2020-11-01,Chicago Bears,23,26
+2020-11-01,Philadelphia Eagles,23,9
+2020-11-02,New York Giants,23,25
+2020-11-05,San Francisco 49ers,17,34
+2020-11-08,Indianapolis Colts,10,24
+2020-11-08,Minnesota Vikings,34,20
+2020-11-08,Jacksonville Jaguars,25,27
+2020-11-08,Buffalo Bills,44,34
+2020-11-08,Kansas City Chiefs,33,31
+2020-11-08,Tennessee Titans,24,17
+2020-11-08,Atlanta Falcons,34,27
+2020-11-08,Washington Football Team,20,23
+2020-11-08,Los Angeles Chargers,26,31
+2020-11-08,Arizona Cardinals,31,34
+2020-11-08,Dallas Cowboys,19,24
+2020-11-08,Tampa Bay Buccaneers,3,38
+2020-11-09,New York Jets,27,30
+2020-11-12,Tennessee Titans,17,34
+2020-11-15,Detroit Lions,30,27
+2020-11-15,Green Bay Packers,24,20
+2020-11-15,Cleveland Browns,10,7
+2020-11-15,Carolina Panthers,23,46
+2020-11-15,New York Giants,27,17
+2020-11-15,Miami Dolphins,29,21
+2020-11-15,Las Vegas Raiders,37,12
+2020-11-15,Arizona Cardinals,32,30
+2020-11-15,New Orleans Saints,27,13
+2020-11-15,Pittsburgh Steelers,36,10
+2020-11-15,Los Angeles Rams,23,16
+2020-11-15,New England Patriots,23,17
+2020-11-16,Chicago Bears,13,19
+2020-11-19,Seattle Seahawks,28,21
+2020-11-22,Houston Texans,27,20
+2020-11-22,Washington Football Team,20,9
+2020-11-22,Jacksonville Jaguars,3,27
+2020-11-22,Cleveland Browns,22,17
+2020-11-22,New Orleans Saints,24,9
+2020-11-22,Baltimore Ravens,24,30
+2020-11-22,Carolina Panthers,20,0
+2020-11-22,Denver Broncos,20,13
+2020-11-22,Los Angeles Chargers,34,28
+2020-11-22,Indianapolis Colts,34,31
+2020-11-22,Minnesota Vikings,28,31
+2020-11-22,Las Vegas Raiders,31,35
+2020-11-23,Tampa Bay Buccaneers,24,27
+2020-11-26,Detroit Lions,25,41
+2020-11-26,Dallas Cowboys,16,41
+2020-11-29,New York Jets,3,20
+2020-11-29,Indianapolis Colts,26,45
+2020-11-29,New England Patriots,20,17
+2020-11-29,Cincinnati Bengals,17,19
+2020-11-29,Jacksonville Jaguars,25,27
+2020-11-29,Buffalo Bills,27,17
+2020-11-29,Atlanta Falcons,43,6
+2020-11-29,Minnesota Vikings,28,27
+2020-11-29,Denver Broncos,3,31
+2020-11-29,Los Angeles Rams,20,23
+2020-11-29,Tampa Bay Buccaneers,24,27
+2020-11-29,Green Bay Packers,41,25
+2020-11-30,Philadelphia Eagles,17,23
+2020-12-02,Pittsburgh Steelers,19,14
+2020-12-06,Chicago Bears,30,34
+2020-12-06,Atlanta Falcons,16,21
+2020-12-06,Minnesota Vikings,27,24
+2020-12-06,Houston Texans,20,26
+2020-12-06,Miami Dolphins,19,7
+2020-12-06,Tennessee Titans,35,41
+2020-12-06,New York Jets,28,31
+2020-12-06,Seattle Seahawks,12,17
+2020-12-06,Arizona Cardinals,28,38
+2020-12-06,Los Angeles Chargers,0,45
+2020-12-06,Green Bay Packers,30,16
+2020-12-06,Kansas City Chiefs,22,16
+2020-12-07,Pittsburgh Steelers,17,23
+2020-12-07,San Francisco 49ers,24,34
+2020-12-08,Baltimore Ravens,34,17
+2020-12-10,Los Angeles Rams,24,3
+2020-12-13,New York Giants,7,26
+2020-12-13,Cincinnati Bengals,7,30
+2020-12-13,Miami Dolphins,27,33
+2020-12-13,Carolina Panthers,27,32
+2020-12-13,Chicago Bears,36,7
+2020-12-13,Jacksonville Jaguars,10,31
+2020-12-13,Tampa Bay Buccaneers,26,14
+2020-12-13,Seattle Seahawks,40,3
+2020-12-13,Las Vegas Raiders,27,44
+2020-12-13,Los Angeles Chargers,20,17
+2020-12-13,Philadelphia Eagles,24,21
+2020-12-13,Detroit Lions,24,31
+2020-12-13,San Francisco 49ers,15,23
+2020-12-13,Buffalo Bills,26,15
+2020-12-14,Cleveland Browns,42,47
+2020-12-17,Las Vegas Raiders,27,30
+2020-12-17,Los Angeles Chargers,30,27
+2020-12-19,Buffalo Bills,48,19
+2020-12-19,Carolina Panthers,16,24
+2020-12-20,Tampa Bay Buccaneers,31,27
+2020-12-20,San Francisco 49ers,33,41
+2020-12-20,Detroit Lions,25,46
+2020-12-20,Houston Texans,20,27
+2020-12-20,New England Patriots,12,22
+2020-12-20,Chicago Bears,33,27
+2020-12-20,Seattle Seahawks,20,15
+2020-12-20,Jacksonville Jaguars,14,40
+2020-12-20,New York Jets,23,20
+2020-12-20,Philadelphia Eagles,26,33
+2020-12-20,Kansas City Chiefs,32,29
+2020-12-20,Cleveland Browns,20,6
+2020-12-21,Pittsburgh Steelers,17,24
+2020-12-17,Las Vegas Raiders,27,30
+2020-12-19,Denver Broncos,19,48
+2020-12-19,Green Bay Packers,24,16
+2020-12-20,Atlanta Falcons,27,31
+2020-12-20,Dallas Cowboys,41,33
+2020-12-20,Tennessee Titans,46,25
+2020-12-20,Indianapolis Colts,27,20
+2020-12-20,Miami Dolphins,22,12
+2020-12-20,Minnesota Vikings,27,33
+2020-12-20,Washington Football Team,15,20
+2020-12-20,Baltimore Ravens,40,14
+2020-12-20,Los Angeles Rams,20,23
+2020-12-20,Arizona Cardinals,33,26
+2020-12-20,New Orleans Saints,29,32
+2020-12-20,New York Giants,6,20
+2020-12-21,Cincinnati Bengals,24,17
